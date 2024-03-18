@@ -1,0 +1,15 @@
+namespace  Posts_graphql.Infrastructure.Databases.PostGrapghQl.Mapping;
+
+using AutoMapper;
+using Domain =  Posts_graphql.Domain.Model;
+using Infrastructure = Posts_graphql.Infrastructure.Models;
+
+internal class UserMappingProfile : Profile
+{
+    public UserMappingProfile()
+    {
+        // _ = this.CreateMap<Infrastructure.Author, Application.Author>()
+        //     .ReverseMap();
+         CreateMap<Infrastructure.User, Domain.UserProfile>();
+    }
+}

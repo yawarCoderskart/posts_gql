@@ -1,0 +1,12 @@
+D:\y_office_23\panga\posts_graphql\posts_graphql.domain\bin\Debug\net6.0\posts_graphql.domain.deps.json
+D:\y_office_23\panga\posts_graphql\posts_graphql.domain\bin\Debug\net6.0\posts_graphql.domain.dll
+D:\y_office_23\panga\posts_graphql\posts_graphql.domain\bin\Debug\net6.0\posts_graphql.domain.pdb
+D:\y_office_23\panga\posts_graphql\posts_graphql.domain\obj\Debug\net6.0\posts_graphql.domain.csproj.AssemblyReference.cache
+D:\y_office_23\panga\posts_graphql\posts_graphql.domain\obj\Debug\net6.0\posts_graphql.domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\y_office_23\panga\posts_graphql\posts_graphql.domain\obj\Debug\net6.0\posts_graphql.domain.AssemblyInfoInputs.cache
+D:\y_office_23\panga\posts_graphql\posts_graphql.domain\obj\Debug\net6.0\posts_graphql.domain.AssemblyInfo.cs
+D:\y_office_23\panga\posts_graphql\posts_graphql.domain\obj\Debug\net6.0\posts_graphql.domain.csproj.CoreCompileInputs.cache
+D:\y_office_23\panga\posts_graphql\posts_graphql.domain\obj\Debug\net6.0\posts_graphql.domain.dll
+D:\y_office_23\panga\posts_graphql\posts_graphql.domain\obj\Debug\net6.0\refint\posts_graphql.domain.dll
+D:\y_office_23\panga\posts_graphql\posts_graphql.domain\obj\Debug\net6.0\posts_graphql.domain.pdb
+D:\y_office_23\panga\posts_graphql\posts_graphql.domain\obj\Debug\net6.0\ref\posts_graphql.domain.dll
